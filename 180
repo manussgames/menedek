@@ -35,6 +35,6 @@
             rotate(degrees);
 
             degrees = (degrees === 180) ? 0 : 180;
-        }, 30 * 60 * 10); // 30 min
+        }, 30 * 60 * 1); // 30 min
     }
 })();
